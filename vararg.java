@@ -1,9 +1,10 @@
 package com.assement2.employee;
 public class vararg {
 
-	
-//	public void m1(String s) {
+	public void m1(String s) {
+		
 //		System.out.println("String version");
+		
 //	}
 //	public void m1(StringBuffer sb) {
 //		System.out.println("StringBuffer version");
@@ -118,6 +119,5 @@ public class vararg {
 //   System.out.println(true ^ false);
 //   System.out.println(~4);
 //   System.out.println(~5);
-//}
 
-}
+
